@@ -15,7 +15,13 @@ ___
 
 ## Apresentação
 
-Olá, sou ...
+Olá, meu nome é Pedro Henrique Gomes Figueiredo, formado e Técnico em Redes de Computadores, atualmente no 5° período do curso de Ciência da Computação na Universidade Paulista Campus Dutra em São José dos Campos.
+
+### Contact
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henriquegofig@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrogofigueiredo)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](pedrohgf_)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](pdroozi)
 
 ## Sprints 
 
@@ -31,3 +37,5 @@ ___
 
 - [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[def]: pdroozi
