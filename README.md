@@ -15,17 +15,15 @@ ___
 
 ## Apresentação
 
-Olá, meu nome é Pedro Henrique Gomes Figueiredo, formado e Técnico em Redes de Computadores, atualmente no 5° período do curso de Ciência da Computação na Universidade Paulista Campus Dutra em São José dos Campos.
+Olá, meu nome é Pedro Henrique Gomes Figueiredo, formado e Técnico em Redes de Computadores pelo instituição Senai Santos Dumont, atualmente no 5° período do curso de Ciência da Computação na Universidade Paulista Campus Dutra em São José dos Campos.
 
 ### Contact
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henriquegofig@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrogofigueiredo)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](pedrohgf_)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](pdroozi)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogofigueiredo)
 
 ## Sprints 
 
-1. [Sprint 1](/Sprint%201/README.md)
+1. [Sprint 1](./Sprint1/README.md)
 2. [Sprint 2](/Sprint%202/README.md)
 3. [Sprint 3](/Sprint%203/README.md)
 4. ...
