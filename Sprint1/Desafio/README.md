@@ -8,9 +8,7 @@ Esperamos que haja, minimamente:
 - Trechos de códigos e suas explicações.
 - Relacionamento com a pasta de evidências (imagens).
 
-
 # Etapas
-
 
 1. ... [Etapa I](etapa-1)
 
@@ -20,8 +18,3 @@ Esperamos que haja, minimamente:
     ```
     Obtive esse retorno
     ![amostra](../Evidencias/sample.webp)
-
-
-
-
-
