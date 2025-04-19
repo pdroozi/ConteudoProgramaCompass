@@ -1,24 +1,17 @@
 
-# Instruções
+# Apresentação
 
-Neste arquivo você fará a sua apresentação, assim como a organização geral das suas entregas ao longo das Sprints. Esperamos que haja, minimamente:
+Olá, prazer, meu nome é Pedro Henrique Gomes Figueiredo, formado Cabo do Exército pelo Tiro de Guerra de São José dos Campos e Técnico em Redes de Computadores pelo instituição Senai Santos Dumont, atualmente no 5° período do curso de Ciência da Computação na Universidade Paulista Campus Dutra em São José dos Campos.
 
-- Uma seção de apresentação, com foto, informações como cidade de residência, instituição de ensino, curso e semestre atual, experiências na área de tecnologia (se houver), hobbies e outras informações que você julgar importante para os monitores.
+Entusiasta dedicado e apaixonado por tecnologia e redes de computadores, buscando conhecimento contínuo e compromissado apenas com a excelência  consegui desenvolver capacidades de adaptação e habilidades sólidas por onde passei.
 
-- De forma opcional, adicione uma foto ao seu perfil do **GitHub**, pois utilizamos tal informação para facilitar a sua identificação ao longo do processo. Lembre-se que a informação é pública, tal qual você pode testar no exemplo do repositório da [
-The Apache Software Foundation](https://github.com/apache.png?size=250).
+Reconhecido pela liderança, dedicação, comunicação eficaz, e resolução de problemas, sou certificado pelo Exército Brasileiro com Diplomas de Destaque e de Honra ao Mérito.
 
-Veja um modelo de estrutura básica a seguir:
-
-___
-
-## Apresentação
-
-Olá, meu nome é Pedro Henrique Gomes Figueiredo, formado e Técnico em Redes de Computadores pelo instituição Senai Santos Dumont, atualmente no 5° período do curso de Ciência da Computação na Universidade Paulista Campus Dutra em São José dos Campos.
+Busco na Compass oportunidades que me permitam aplicar e desenvolver meu conhecimento, demonstrar minhas qualidades para impulsionar meu crescimento profissional, e inovar em um ambiente dinâmico e desafiador. Sempre aberto a possibilidades de colaborar!
 
 <img src="foto pessoal.jpeg" alt="Foto Pesssoal" width= 200px />
 
-### Contact
+## Contact
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henriquegofig@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogofigueiredo)
@@ -28,11 +21,3 @@ Olá, meu nome é Pedro Henrique Gomes Figueiredo, formado e Técnico em Redes d
 1. [Sprint 1](./Sprint1/README.md)
 2. [Sprint 2](/Sprint%202/README.md)
 3. [Sprint 3](/Sprint%203/README.md)
-4. ...
-
-___
-
-# Dicas
-
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

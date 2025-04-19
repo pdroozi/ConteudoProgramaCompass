@@ -1,27 +1,22 @@
-# Instruções
-
-Este arquivo será o relato da sua entrega. Neste arquivo você fará a organização geral ao longo da Sprint. Esperamos que haja, minimamente:
-
-- Uma ou mais seções para descrever o que estiver aprendendo (resumo), de maneira estruturada.
-
-- Breve conteúdo de cada pasta relacionada a sprint.
 
 # Resumo
 
+---
+
 ## Scrum
 
-- Pude aprender sobre a importância da métodologia ágil Scrum, pelo seu coletivismo e integração, gerando valor através de seu framework. <br>
-- Estágios do processo (**To Do** (A Fazer), **WIP** (Work In Progress | Em Progresso), **Done** (Feito))<br>
+- Pude aprender sobre a importância da métodologia ágil Scrum, pelo seu coletivismo e integração, gerando valor através de seu framework.
+- Estágios do processo (**To Do** (A Fazer), **WIP** (Work In Progress | Em Progresso), **Done** (Feito))
 
 - Elementos como os **Papéis** (P.O, S.M, Time de Desenvolvimento), **Artefatos** (Backlog, Product/Sprint Backlog, Histórias e o gráfico Burndown), e os **Eventos** (Sprint, Daily Scrum, Sprint Review/Retrospect)
 
 ## Fundamentos de Segurança
 
-- No Módulo 0, aprendi sobre **InfoSec**, que se descreve como a proteção de informações visando ofereçer proteção e valor aos dados, aprendi sobre a Tríade CID (Confidencialidade, Integridade e Disponibilidade), e as políticas PSI e PCI <br>
+- No Módulo 0, aprendi sobre **InfoSec**, que se descreve como a proteção de informações visando ofereçer proteção e valor aos dados, aprendi sobre a Tríade CID (Confidencialidade, Integridade e Disponibilidade), e as políticas PSI e PCI
 
-- No Módulo 1, aprendi sobre **Classifição das Informações**, dividida em níveis (Confidencial, Restritas, Internas e Públicas) perante a sensibilidade, criticidade e valor da informação <br>
+- No Módulo 1, aprendi sobre **Classifição das Informações**, dividida em níveis (Confidencial, Restritas, Internas e Públicas) perante a sensibilidade, criticidade e valor da informação
 
-- No Módulo 2, aprendi sobre **Engenharia Social**, sua definição baseada na exploração da boa-fé humana e simpatia do alvo por criminosos, suas técnicas (Baiting, Phishing (Smishing e Vishing) e Dumpster Giving), e como se prevenir (descarte correto, leitura atenta, validação de links suspeitos, etc) <br>
+- No Módulo 2, aprendi sobre **Engenharia Social**, sua definição baseada na exploração da boa-fé humana e simpatia do alvo por criminosos, suas técnicas (Baiting, Phishing (Smishing e Vishing) e Dumpster Giving), e como se prevenir (descarte correto, leitura atenta, validação de links suspeitos, etc)
 
 - No Módulo 3, aprendi sobre **Boas Práticas e Diretrizes**, sendo elas Compatilhamento de Acesso, Armazenamento, Softwares e Hardwares, Senha Segura, Uso de Internet, MFA, MSAuthenticator, Atualização de Segurança, Incidentes de Segurança, Como Reportar Um Incidente, e Redes WIFI (Abertas, Fechadas, Públicas ou Privadas)
 
@@ -46,7 +41,22 @@ Este arquivo será o relato da sua entrega. Neste arquivo você fará a organiza
 - Na Seção 10, aprendi sobre manipulação de tabelas (criação e deleção), linhas e colunas (inserção, atualização e deleção)
 
 ## Modelagem Relacional e Dimensional
+
+- Aprendi sobre o **Modelo Entidade Relacionamento** proposto por Peter Chen, que pode sere explicado utlizando a teoria da **A Lei do Mundo**, onde todo mundo está cheio de coisas, que possuem características próprias e que se relacionam entre si
+
+- Aprendi sobre Entidade, que é a representação genérica de um componente do mundo real, Dicionarização, para gerar a interpretação correta dos dados, evitando ambiguidades, Atributos, que é tudo que pode se relacionar com a Entidade, podendo ser descritivos, nominativos ou referenciais, Relacionamento, que é a relação existente entre entidades, representando sempre uma regra de negócio, podem ser Ternários ou mais, de Agregação, ou Especialização
+
+- Aprendi sobre chaves primárias e secundárias, documentação formal de elementos e normalização através das formais normais, 1FN para retirar atributos ou grupos repetitivos, 2FN para separar dependências parciais, e 3FN para eliminar as dependências transitivas
+
+- Aprendi sobre Business Intelligence (BI), Data Warehousing e seus meios de ser modelado (OLAP e OLTP), abordagens Top Down e Botton Up
+
+- Aprendi sobre Modelo Dimensional, elementada pelas Tabelas Dimensões e Tabelas de Fatos, quantificada pelas Métricas (aditivas, semi-aditivas e não-aditivas)
+
+- Aprendi sobre Representação de Dados, os tipos de modelos-esquema em estrela (Star-Schema), em floco de neve (Snow Flake Schema) e Galaxy (Schema Galaxy) e como transformar Modelos Relacionais em Modelos Dimensionais como os falados anteriormente
+
 # Exercícios
+
+---
 
 ## Exercícios SQL
 
@@ -99,6 +109,8 @@ Este arquivo será o relato da sua entrega. Neste arquivo você fará a organiza
 [Resposta Ex16.](./Exercicios/Case_Loja/ex16.sql)
 
 # Evidências
+
+---
 
 ## EX1 SQL
 
@@ -261,3 +273,5 @@ Este arquivo será o relato da sua entrega. Neste arquivo você fará a organiza
 ![Evidencia Sucesso Ex16](./Evidencias/Exercícios/Case_Loja/Confirmação_Sucesso_EX16sql.JPG)
 
 # Certificados
+
+---
