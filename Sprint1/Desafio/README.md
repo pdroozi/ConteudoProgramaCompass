@@ -77,10 +77,10 @@ Nessa etapa o objetivo é realizar a modelagem dimensional do nosso banco de dad
 
 As tabelas dimensões são views criadas para responder perguntas, olhando pro nosso banco normalizado, nos perguntamos:
 
- - Quem fez a locação?
- - Qual carro foi locado?
- - Qual vendedor realizou a locação?
- - Quando foi realizada a locação?
+- Quem fez a locação?
+- Qual carro foi locado?
+- Qual vendedor realizou a locação?
+- Quando foi realizada a locação?
 
 Todas essas perguntas são respondidas criando dimensões específicas que descrevem o oque, quem, onde e quando de um determinado fato.
 
