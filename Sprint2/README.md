@@ -16,52 +16,52 @@
 ## Exercícios SQL
 
 1. ...
-[Resposta Ex1.](./Exercicios/Case_Biblioteca/ex1.sql)
+[Resposta Ex1.]
 
 2. ...
-[Resposta Ex2.](./Exercicios/Case_Biblioteca/ex2.sql)
+[Resposta Ex2.]
 
 3. ...
-[Resposta Ex3.](./Exercicios/Case_Biblioteca/ex3.sql)
+[Resposta Ex3.]
 
 4. ...
-[Resposta Ex4.](./Exercicios/Case_Biblioteca/ex4.sql)
+[Resposta Ex4.]
 
 5. ...
-[Resposta Ex5.](./Exercicios/Case_Biblioteca/ex5.sql)
+[Resposta Ex5.]
 
 6. ...
-[Resposta Ex6.](./Exercicios/Case_Biblioteca/ex6.sql)
+[Resposta Ex6.]
 
 7. ...
-[Resposta Ex7.](./Exercicios/Case_Biblioteca/ex7.sql)
+[Resposta Ex7.]
 
 8. ...
-[Resposta Ex8.](./Exercicios/Case_Loja/ex8.sql)
+[Resposta Ex8.]
 
 9. ...
-[Resposta Ex9.](./Exercicios/Case_Loja/ex9.sql)
+[Resposta Ex9.]
 
 10. ...
-[Resposta Ex10.](./Exercicios/Case_Loja/ex10.sql)
+[Resposta Ex10.]
 
 11. ...
-[Resposta Ex11.](./Exercicios/Case_Loja/ex11.sql)
+[Resposta Ex11.]
 
 12. ...
-[Resposta Ex12.](./Exercicios/Case_Loja/ex12.sql)
+[Resposta Ex12.]
 
 13. ...
-[Resposta Ex13.](./Exercicios/Case_Loja/ex13.sql)
+[Resposta Ex13.]
 
 14. ...
-[Resposta Ex14.](./Exercicios/Case_Loja/ex14.sql)
+[Resposta Ex14.]
 
 15. ...
-[Resposta Ex15.](./Exercicios/Case_Loja/ex15.sql)
+[Resposta Ex15.]
 
 16. ...
-[Resposta Ex16.](./Exercicios/Case_Loja/ex16.sql)
+[Resposta Ex16.]
 
 # Evidências
 
