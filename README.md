@@ -9,7 +9,7 @@ Reconhecido pela liderança, dedicação, comunicação eficaz, e resolução de
 
 Busco na Compass oportunidades que me permitam aplicar e desenvolver meu conhecimento, demonstrar minhas qualidades para impulsionar meu crescimento profissional, e inovar em um ambiente dinâmico e desafiador. Sempre aberto a possibilidades de colaborar!
 
-<img src="img_foto_pessoal_readme/foto pessoal.jpeg" alt="Foto Pessoal" width=200px />
+<img src="img_foto_pessoal_readme/foto-pessoal_colorida.jpg" alt="Foto Pessoal" width=200px />
 
 ## Contact
 
@@ -19,5 +19,5 @@ Busco na Compass oportunidades que me permitam aplicar e desenvolver meu conheci
 ## Sprints
 
 1. [Sprint 1](./Sprint1/README.md)
-2. [Sprint 2](/Sprint%202/README.md)
-3. [Sprint 3](/Sprint%203/README.md)
+2. [Sprint 2](./Sprint2/README.md)
+3. [Sprint 3](./Sprint3/README.md)
