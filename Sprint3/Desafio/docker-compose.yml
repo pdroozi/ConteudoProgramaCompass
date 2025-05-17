@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  image_etl:
+    build:
+      context: ./ETL
+      dockerfile: Dockerfile
+    volumes:
+      - ./volume:/saida
+    working_dir: /appETL
+    command: ["python", "etl.py"]
+
+  image_job:
+    build:
+      context: ./JOB
+      dockerfile: Dockerfile
+    volumes:
+      - ./volume:/saida
+    working_dir: /appJOB
+    command: ["python", "job.py"]
