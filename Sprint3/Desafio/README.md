@@ -44,13 +44,13 @@ O objetivo da etapa 2 é utilizar o dataframeLimpo para processar e analisar os 
 
 ![Q1.](../Evidencias/Desafio/Etapa2/Q1.JPG)
 
-- Antes de iniciar o código importamos as bibliotecas que serão necessárias durante a resolução dos exercícios, e criamos uma variável dataFrameLimpo, que sera preenchido pela leitura do arquivo csv de mesmo nome. 
+- Antes de iniciar o código importamos as bibliotecas que serão necessárias durante a resolução dos exercícios, e criamos uma variável dataFrameLimpo, que sera preenchido pela leitura do arquivo csv de mesmo nome.
 
-- O código se inicia com a criação de uma variável chamada contagem, que é preenchida por uma função value_counts, que verifica na coluna Artists do nosso dataframe, com essa contagem em mãos, utilizamos a fução idxmax para encontrar o ID do artista que mais aparece na lista, seus dados são armazenados em uma variável chama dadosartistaFrequente. 
+- O código se inicia com a criação de uma variável chamada contagem, que é preenchida por uma função value_counts, que verifica na coluna Artists do nosso dataframe, com essa contagem em mãos, utilizamos a fução idxmax para encontrar o ID do artista que mais aparece na lista, seus dados são armazenados em uma variável chama dadosartistaFrequente.
 
 - Com seus dados em mãos iremos na coluna Actual Gross executar a função mean, que irá ler todos os valores da coluna, e obter a média deles, armazenando esse valor resultante em uma variável chamada mediaArtistaFrequente
 
-- Por fim, printamos na tela uma mensagem com o nome do artista mais frequente, e a média de seu Actual Gross. 
+- Por fim, printamos na tela uma mensagem com o nome do artista mais frequente, e a média de seu Actual Gross.
 
 ### Pergunta Q2
 
@@ -62,7 +62,7 @@ O objetivo da etapa 2 é utilizar o dataframeLimpo para processar e analisar os 
 
 - Dessa variável utilizamos a mesma função idxmax e max, para filtrar pelo ID, o nome da turnê com a maior média do dataframe
 
-- Com essas duas informações, printamos na tela o nome da turnê e a média dela. 
+- Com essas duas informações, printamos na tela o nome da turnê e a média dela.
 
 ### Pergunta Q3
 
@@ -72,8 +72,7 @@ O objetivo da etapa 2 é utilizar o dataframeLimpo para processar e analisar os 
 
 - Com essa coluna criada, realizamos por ela uma ordenação decrescente limitada a 3 linhas, com o objetivos de encontrar os dados das 3 turnês com maiore receita por show durante a turnê.
 
-- Com os dados das turnês em mãos, imprimimos na tela o nome da turnê, o nome da artista, e o valor por show obtido. 
-
+- Com os dados das turnês em mãos, imprimimos na tela o nome da turnê, o nome da artista, e o valor por show obtido.
 
 ### Exportação Para TXT
 
@@ -81,7 +80,7 @@ O objetivo da etapa 2 é utilizar o dataframeLimpo para processar e analisar os 
 
 - Após a execuçao das três primeiras questões, exportar o resultado delas para um mesmo arquivo txt chamado respostas.txt
 
-- As duas próximas questões terão saídas gráficas, logo, não serão armazenadas junto ao arquivo. 
+- As duas próximas questões terão saídas gráficas, logo, não serão armazenadas junto ao arquivo.
 
 ### Pergunta Q4
 
@@ -95,23 +94,23 @@ O objetivo da etapa 2 é utilizar o dataframeLimpo para processar e analisar os 
 
 ![SaidaQ4.](../Evidencias/Desafio/Etapa2/SaidaQ4.JPG)
 
-### Pergunta Q5 
+### Pergunta Q5
 
 ![Q5.](../Evidencias/Desafio/Etapa2/Q5.JPG)
 
-- O código se inicia com o agrupamento do dataframe pelas colunas Artists e Shows, onde nelas são aplicadas as funções sum para somar os shows pelo nome do artista, e a função nlargest, que filtra os 5 artistas com mais shows realizados dentro do período que engloba o dataframe 
+- O código se inicia com o agrupamento do dataframe pelas colunas Artists e Shows, onde nelas são aplicadas as funções sum para somar os shows pelo nome do artista, e a função nlargest, que filtra os 5 artistas com mais shows realizados dentro do período que engloba o dataframe
 
-- Com esse dados, é criado um gráfico de barras demonstrando os cinco artistas que executaram mais shows, pelo range de nosso dataframe, veja o gráfico abaixo: 
+- Com esse dados, é criado um gráfico de barras demonstrando os cinco artistas que executaram mais shows, pelo range de nosso dataframe, veja o gráfico abaixo:
 
 ![SaidaQ5.](../Evidencias/Desafio/Etapa2/SaidaQ5.JPG)
 
 Com isso terminamos a etapa 2 com a resolução das cinco questões.
 
-## Etapa 3 Dockerfile da Etapa1 
+## Etapa 3 Dockerfile da Etapa1
 
 O objetivo da etapa 3 é o de criar uma imagem a partir de um arquivo de instruções Dockerfile que execute o arquivo elt.py, criado na Etapa1, gerando assim um conteiner a partir dessa imagem, os códigos DockerFile e etl.py podem ser encontrados abaixo:
 
-[etl.py.](../Desafio/ETL/appETL/etl.py) 
+[etl.py.](../Desafio/ETL/appETL/etl.py)
 
 [dockerfileETL.](../Desafio/ETL/Dockerfile)
 
@@ -145,7 +144,7 @@ Com essa confirmação via Docker Desktop, finalizamos a etapa 3 com a criação
 
 O objetivo da etapa 4 é o de criar uma imagem a partir de um arquivo de instruções Dockerfile que execute o arquivo job.py, criado na Etapa2, gerando assim um conteiner a partir dessa imagem, os códigos DockerFile e job.py podem ser encontrados abaixo:
 
-[job.py.](../Desafio/JOB/appJOB/job.py) 
+[job.py.](../Desafio/JOB/appJOB/job.py)
 
 [dockerfileJOB.](../Desafio/JOB/Dockerfile)
 

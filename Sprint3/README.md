@@ -106,3 +106,5 @@ docker run -it image_mascarar
 Com essa confirmação via Docker Desktop, finalizamos a etapa 2 dos nossos exercícios com Docker.
 
 # Certificados
+
+![AWS Accreditation](../Sprint3/Certificados/Pedro.Figueiredo-%20AWS%20Accreditacion.jpg)
