@@ -13,7 +13,8 @@ Busco na Compass oportunidades que me permitam aplicar e desenvolver meu conheci
 
 ## Contact
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henriquegofig@gmail.com)
+[![outlook](https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=Outlook&logoColor=white)](https://outlook.com/pedro.figueiredo.pb@compasso.com.br)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/pedro.henriquegofig@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogofigueiredo)
 
 ## Sprints
@@ -21,3 +22,4 @@ Busco na Compass oportunidades que me permitam aplicar e desenvolver meu conheci
 1. [Sprint 1](./Sprint1/README.md)
 2. [Sprint 2](./Sprint2/README.md)
 3. [Sprint 3](./Sprint3/README.md)
+4. [Sprint 4](./Sprint4/README.md)
