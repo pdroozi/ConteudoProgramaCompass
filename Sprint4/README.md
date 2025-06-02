@@ -116,7 +116,7 @@
 
 ![JSON](../Sprint4/Evidencias/AWS%20Labs/Lab%20S3/Etapa4/PoliticsJSON_CODE-SaveChanges.JPG)
 
-- Clique em Salvar e confirme que as políticas foram inseridas corretamente e com sucesso
+- Clique em Salvar e confirme que as políticas foram inseridas corretamente com sucesso
 
 ![ConfirmPolitcsJSON](../Sprint4/Evidencias/AWS%20Labs/Lab%20S3/Etapa4/ConfirmPolitcsBucket.JPG)
 
