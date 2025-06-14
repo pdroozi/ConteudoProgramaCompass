@@ -6,4 +6,4 @@ COPY appCSV/ /app/
 
 RUN pip install --no-cache-dir boto3
 
-CMD ["python", "uploadCSVs.py"]
+CMD ["python", "processamentoCSVs.py"]
