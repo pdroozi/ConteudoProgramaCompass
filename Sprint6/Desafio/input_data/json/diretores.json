@@ -1,0 +1,290 @@
+[
+  {
+    "gender": 2,
+    "id": 5655,
+    "imdb_id": "nm0027572",
+    "known_for_department": "Directing",
+    "name": "Wes Anderson",
+    "place_of_birth": "Houston, Texas, USA",
+    "popularity": 4.8044
+  },
+  {
+    "gender": 2,
+    "id": 5656,
+    "imdb_id": "nm0000876",
+    "known_for_department": "Directing",
+    "name": "Noah Baumbach",
+    "place_of_birth": "Brooklyn, New York City, New York, USA",
+    "popularity": 1.9252
+  },
+  {
+    "gender": 2,
+    "id": 8858,
+    "imdb_id": "nm0718645",
+    "known_for_department": "Production",
+    "name": "Ivan Reitman",
+    "place_of_birth": "Komárno, Czechoslovakia [now Slovak Republic]",
+    "popularity": 0.8883
+  },
+  {
+    "gender": 0,
+    "id": 1168284,
+    "imdb_id": "nm3437262",
+    "known_for_department": "Acting",
+    "name": "Hallie Cooper-Novack",
+    "place_of_birth": null,
+    "popularity": 0.6446
+  },
+  {
+    "gender": 2,
+    "id": 131870,
+    "imdb_id": "nm0918078",
+    "known_for_department": "Directing",
+    "name": "Daryl Wein",
+    "place_of_birth": "Santa Monica, California, USA",
+    "popularity": 0.6906
+  },
+  {
+    "gender": 2,
+    "id": 40863,
+    "imdb_id": "nm1846132",
+    "known_for_department": "Directing",
+    "name": "Joe Swanberg",
+    "place_of_birth": "Detroit, Michigan, USA",
+    "popularity": 0.8171
+  },
+  {
+    "gender": 2,
+    "id": 1044255,
+    "imdb_id": "nm3504405",
+    "known_for_department": "Directing",
+    "name": "Alex Ross Perry",
+    "place_of_birth": "Bryn Mawr, Pennsylvania, USA",
+    "popularity": 0.833
+  },
+  {
+    "gender": 2,
+    "id": 1088671,
+    "imdb_id": "nm0994546",
+    "known_for_department": "Writing",
+    "name": "Olivier Lécot",
+    "place_of_birth": null,
+    "popularity": 0.24
+  },
+  {
+    "gender": 2,
+    "id": 17439,
+    "imdb_id": "nm0590122",
+    "known_for_department": "Directing",
+    "name": "Mike Mills",
+    "place_of_birth": "Berkeley, California, USA",
+    "popularity": 0.9584
+  },
+  {
+    "gender": 2,
+    "id": 101542,
+    "imdb_id": "nm1488800",
+    "known_for_department": "Directing",
+    "name": "Ti West",
+    "place_of_birth": "Wilmington, Delaware, USA",
+    "popularity": 1.6004
+  },
+  {
+    "gender": 2,
+    "id": 66605,
+    "imdb_id": "nm0001754",
+    "known_for_department": "Writing",
+    "name": "Todd Solondz",
+    "place_of_birth": "Newark, New Jersey, USA",
+    "popularity": 0.8902
+  },
+  {
+    "gender": 2,
+    "id": 1461038,
+    "imdb_id": "nm4723712",
+    "known_for_department": "Acting",
+    "name": "Jon Bass",
+    "place_of_birth": "Bellaire, Texas",
+    "popularity": 1.4097
+  },
+  {
+    "gender": 0,
+    "id": 1328180,
+    "imdb_id": "nm0364204",
+    "known_for_department": "Writing",
+    "name": "Paul Harrill",
+    "place_of_birth": null,
+    "popularity": 0.32
+  },
+  {
+    "gender": 2,
+    "id": 8246,
+    "imdb_id": "nm0001469",
+    "known_for_department": "Directing",
+    "name": "Barry Levinson",
+    "place_of_birth": "Baltimore, Maryland, USA",
+    "popularity": 1.694
+  },
+  {
+    "gender": 0,
+    "id": 1361592,
+    "imdb_id": "nm1085340",
+    "known_for_department": "Directing",
+    "name": "Victor Fanucchi",
+    "place_of_birth": null,
+    "popularity": 0.0875
+  },
+  {
+    "gender": 2,
+    "id": 87742,
+    "imdb_id": "nm1989536",
+    "known_for_department": "Directing",
+    "name": "Marc Webb",
+    "place_of_birth": "Bloomington, Indiana, USA",
+    "popularity": 1.1311
+  },
+  {
+    "gender": 1,
+    "id": 41670,
+    "imdb_id": "nm0589182",
+    "known_for_department": "Directing",
+    "name": "Rebecca Miller",
+    "place_of_birth": "Roxbury, Connecticut, USA",
+    "popularity": 1.2331
+  },
+  {
+    "gender": 2,
+    "id": 1617096,
+    "imdb_id": "nm2369219",
+    "known_for_department": "Writing",
+    "name": "Rod Webber",
+    "place_of_birth": "Boston, Massachusetts, United States",
+    "popularity": 0.1809
+  },
+  {
+    "gender": 1,
+    "id": 45400,
+    "imdb_id": "nm1950086",
+    "known_for_department": "Acting",
+    "name": "Greta Gerwig",
+    "place_of_birth": "Sacramento, California, USA",
+    "popularity": 3.0613
+  },
+  {
+    "gender": 2,
+    "id": 1243,
+    "imdb_id": "nm0000095",
+    "known_for_department": "Directing",
+    "name": "Woody Allen",
+    "place_of_birth": "The Bronx, New York City, New York, USA",
+    "popularity": 2.7426
+  },
+  {
+    "gender": 2,
+    "id": 45405,
+    "imdb_id": "nm0243231",
+    "known_for_department": "Acting",
+    "name": "Jay Duplass",
+    "place_of_birth": "New Orleans, Louisiana, USA",
+    "popularity": 1.3587
+  },
+  {
+    "gender": 1,
+    "id": 222686,
+    "imdb_id": "nm0361135",
+    "known_for_department": "Directing",
+    "name": "Mia Hansen-Løve",
+    "place_of_birth": "Paris, France",
+    "popularity": 0.4854
+  },
+  {
+    "gender": 2,
+    "id": 45407,
+    "imdb_id": "nm0243233",
+    "known_for_department": "Acting",
+    "name": "Mark Duplass",
+    "place_of_birth": "New Orleans, Louisiana, USA",
+    "popularity": 2.5627
+  },
+  {
+    "gender": 1,
+    "id": 45419,
+    "imdb_id": "nm1735543",
+    "known_for_department": "Directing",
+    "name": "Ry Russo-Young",
+    "place_of_birth": "New York City, New York, USA",
+    "popularity": 0.533
+  },
+  {
+    "gender": 0,
+    "id": 110828,
+    "imdb_id": "nm0447863",
+    "known_for_department": "Writing",
+    "name": "Christopher Kenneally",
+    "place_of_birth": null,
+    "popularity": 0.4456
+  },
+  {
+    "gender": 2,
+    "id": 492,
+    "imdb_id": "nm0001405",
+    "known_for_department": "Camera",
+    "name": "Janusz Kamiński",
+    "place_of_birth": "Ziebice, Dolnoslaskie, Poland",
+    "popularity": 0.9151
+  },
+  {
+    "gender": 2,
+    "id": 78188,
+    "imdb_id": "nm0001775",
+    "known_for_department": "Writing",
+    "name": "Whit Stillman",
+    "place_of_birth": "Washington, District of Columbia, USA",
+    "popularity": 0.4961
+  },
+  {
+    "gender": 2,
+    "id": 141675,
+    "imdb_id": "nm0934864",
+    "known_for_department": "Directing",
+    "name": "Jason Winer",
+    "place_of_birth": null,
+    "popularity": 0.6655
+  },
+  {
+    "gender": 2,
+    "id": 225009,
+    "imdb_id": "nm1883257",
+    "known_for_department": "Directing",
+    "name": "Pablo Larraín",
+    "place_of_birth": "Santiago, Chile",
+    "popularity": 0.9316
+  },
+  {
+    "gender": 1,
+    "id": 935669,
+    "imdb_id": "nm2555469",
+    "known_for_department": "Directing",
+    "name": "Mary Bronstein",
+    "place_of_birth": "White Plains, New York",
+    "popularity": 0.1604
+  },
+  {
+    "gender": 2,
+    "id": 107766,
+    "imdb_id": "nm2310589",
+    "known_for_department": "Acting",
+    "name": "Kentucker Audley",
+    "place_of_birth": "Lexington, Kentucky, U.S.",
+    "popularity": 1.069
+  },
+  {
+    "gender": 1,
+    "id": 57719,
+    "imdb_id": "nm0046750",
+    "known_for_department": "Writing",
+    "name": "Alison Bagnall",
+    "place_of_birth": "USA",
+    "popularity": 0.3305
+  }
+]

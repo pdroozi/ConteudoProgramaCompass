@@ -1,0 +1,3010 @@
+[
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 5761,
+    "imdb_id": "tt0841108",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.5924,
+    "production_companies": [
+      {
+        "id": 1976,
+        "logo_path": "/vuNHAl3LpcNtjtRx8Ml4gpUMO2G.png",
+        "name": "filmscience",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2007-08-22",
+    "revenue": 0,
+    "runtime": 83,
+    "title": "Hannah Takes the Stairs",
+    "vote_average": 5.261,
+    "vote_count": 46,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "5.6",
+    "imdbVotes": "2,335",
+    "imdbID": "tt0841108",
+    "Type": "movie",
+    "BoxOffice": "$22,815",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 121986,
+    "imdb_id": "tt2347569",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 2.3835,
+    "production_companies": [
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 30666,
+        "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+        "name": "RT Features",
+        "origin_country": "BR"
+      },
+      {
+        "id": 88533,
+        "logo_path": null,
+        "name": "Pine District Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-05-17",
+    "revenue": 4069826,
+    "runtime": 86,
+    "title": "Frances Ha",
+    "vote_average": 7.355,
+    "vote_count": 1689,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.4",
+    "imdbVotes": "98,485",
+    "imdbID": "tt2347569",
+    "Type": "movie",
+    "BoxOffice": "$4,069,826",
+    "Language": "English, French",
+    "Country": "United States, Brazil",
+    "Awards": "1 win & 49 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [],
+    "id": 805256,
+    "imdb_id": "tt1217594",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.0828,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2008-04-18",
+    "revenue": 0,
+    "runtime": 25,
+    "title": "Quick Feet, Soft Hands",
+    "vote_average": 0.0,
+    "vote_count": 1,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "35",
+    "imdbID": "tt1217594",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "id": 1063307,
+    "imdb_id": "tt30253514",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 2.5089,
+    "production_companies": [
+      {
+        "id": 89229,
+        "logo_path": null,
+        "name": "Alldayeveryday",
+        "origin_country": "US"
+      },
+      {
+        "id": 149332,
+        "logo_path": "/3pvLAa2Q3bWiRLPgBGokWSRSvWe.png",
+        "name": "Vice Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 136576,
+        "logo_path": null,
+        "name": "Matador Records",
+        "origin_country": "US"
+      },
+      {
+        "id": 21229,
+        "logo_path": "/46sRGbTYo4YxTLuIDYb77u6sU69.png",
+        "name": "Field Recordings Filmproduktion",
+        "origin_country": "DE"
+      },
+      {
+        "id": 154645,
+        "logo_path": null,
+        "name": "LBI Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 245827,
+        "logo_path": null,
+        "name": "Monotone",
+        "origin_country": ""
+      },
+      {
+        "id": 37814,
+        "logo_path": null,
+        "name": "Hipgnosis",
+        "origin_country": ""
+      },
+      {
+        "id": 237792,
+        "logo_path": null,
+        "name": "WW7 Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-05-02",
+    "revenue": 0,
+    "runtime": 128,
+    "title": "Pavements",
+    "vote_average": 6.8,
+    "vote_count": 4,
+    "Ratings": [
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "60",
+    "imdbID": "tt30253514",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 87952,
+    "imdb_id": "tt1189367",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.2383,
+    "production_companies": [
+      {
+        "id": 125643,
+        "logo_path": null,
+        "name": "Frownland",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2008-03-10",
+    "revenue": 0,
+    "runtime": 78,
+    "title": "Yeast",
+    "vote_average": 5.7,
+    "vote_count": 8,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "287",
+    "imdbID": "tt1189367",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 1 nomination"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 44434,
+    "imdb_id": "tt0462392",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.4791,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2006-03-13",
+    "revenue": 0,
+    "runtime": 81,
+    "title": "LOL",
+    "vote_average": 5.697,
+    "vote_count": 89,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "4.7",
+    "imdbVotes": "919",
+    "imdbID": "tt0462392",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "id": 110354,
+    "imdb_id": "tt2014338",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.2935,
+    "production_companies": [
+      {
+        "id": 7193,
+        "logo_path": null,
+        "name": "Company Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-08-19",
+    "revenue": 0,
+    "runtime": 99,
+    "title": "Side by Side",
+    "vote_average": 7.24,
+    "vote_count": 296,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.6",
+    "imdbVotes": "13,782",
+    "imdbID": "tt2014338",
+    "Type": "movie",
+    "BoxOffice": "$58,825",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total"
+  },
+  {
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 744594,
+    "imdb_id": "tt6160448",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 2.0186,
+    "production_companies": [
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 181486,
+        "logo_path": null,
+        "name": "NB/GG Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-11-25",
+    "revenue": 71476,
+    "runtime": 136,
+    "title": "White Noise",
+    "vote_average": 5.531,
+    "vote_count": 722,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "5.7",
+    "imdbVotes": "46,462",
+    "imdbID": "tt6160448",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English, German",
+    "Country": "United States, United Kingdom",
+    "Awards": "3 wins & 25 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "id": 1226899,
+    "imdb_id": "tt30787657",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.6405,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2024-11-21",
+    "revenue": 0,
+    "runtime": 70,
+    "title": "Carole & Grey",
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt30787657",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 1000000,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "id": 1488024,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "en",
+    "popularity": 0.2844,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2025-05-05",
+    "revenue": 0,
+    "runtime": 84,
+    "title": "Dua Lipa: Live at Mad Cool Festival",
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "budget": 25000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 41630,
+    "imdb_id": "tt1411238",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 5.6601,
+    "production_companies": [
+      {
+        "id": 817,
+        "logo_path": null,
+        "name": "Katalyst Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2364,
+        "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+        "name": "The Montecito Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 8873,
+        "logo_path": null,
+        "name": "Handsomecharlie Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2011-01-21",
+    "revenue": 149200000,
+    "runtime": 107,
+    "title": "No Strings Attached",
+    "vote_average": 6.297,
+    "vote_count": 4774,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "47%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.2",
+    "imdbVotes": "249,861",
+    "imdbID": "tt1411238",
+    "Type": "movie",
+    "BoxOffice": "$70,662,220",
+    "Language": "English, Ukrainian",
+    "Country": "United States, United Kingdom",
+    "Awards": "2 wins & 7 nominations total"
+  },
+  {
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "id": 391713,
+    "imdb_id": "tt4925292",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 5.7574,
+    "production_companies": [
+      {
+        "id": 93105,
+        "logo_path": "/ryjDQ04FlVYVW30Eok3t5V5Gx8T.png",
+        "name": "IAC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 78984,
+        "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+        "name": "Entertainment 360",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-09-01",
+    "revenue": 79000000,
+    "runtime": 94,
+    "title": "Lady Bird",
+    "vote_average": 7.255,
+    "vote_count": 8703,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "93/100"
+      }
+    ],
+    "Metascore": "93",
+    "imdbRating": "7.4",
+    "imdbVotes": "351,385",
+    "imdbID": "tt4925292",
+    "Type": "movie",
+    "BoxOffice": "$48,958,273",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Nominated for 5 Oscars. 124 wins & 228 nominations total"
+  },
+  {
+    "budget": 9000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 376866,
+    "imdb_id": "tt1619029",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.9727,
+    "production_companies": [
+      {
+        "id": 8533,
+        "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+        "name": "LD Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7503,
+        "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+        "name": "Protozoa Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 21546,
+        "logo_path": "/nB186ByqKVBiuy9Nc3US9nlBst1.png",
+        "name": "Fabula",
+        "origin_country": "CL"
+      },
+      {
+        "id": 8186,
+        "logo_path": "/exdIeoM9Bk2Vn57WbEN6WOSrOjI.png",
+        "name": "Bliss Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 856,
+        "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+        "name": "Wild Bunch",
+        "origin_country": "FR"
+      },
+      {
+        "id": 729,
+        "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+        "name": "Why Not Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 261361,
+        "logo_path": null,
+        "name": "Endemol Shine Studios",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2016-12-02",
+    "revenue": 13960394,
+    "runtime": 100,
+    "title": "Jackie",
+    "vote_average": 6.454,
+    "vote_count": 2330,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "6.6",
+    "imdbVotes": "85,407",
+    "imdbID": "tt1619029",
+    "Type": "movie",
+    "BoxOffice": "$13,960,394",
+    "Language": "English, Spanish",
+    "Country": "United States, France, Chile, China",
+    "Awards": "Nominated for 3 Oscars. 44 wins & 170 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 49446,
+    "imdb_id": "tt1249443",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.3979,
+    "production_companies": [
+      {
+        "id": 136151,
+        "logo_path": null,
+        "name": "Helavanna Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 136152,
+        "logo_path": null,
+        "name": "Mesee Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-01-16",
+    "revenue": 0,
+    "runtime": 81,
+    "title": "You Wont Miss Me",
+    "vote_average": 5.25,
+    "vote_count": 12,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "41/100"
+      }
+    ],
+    "Metascore": "41",
+    "imdbRating": "4.9",
+    "imdbVotes": "355",
+    "imdbID": "tt1249443",
+    "Type": "movie",
+    "BoxOffice": "$2,240",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "1 win & 2 nominations"
+  },
+  {
+    "budget": 1000,
+    "genres": [],
+    "id": 1482921,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.54,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-06-14",
+    "revenue": 1000,
+    "runtime": 46,
+    "title": "China, Il The Musical",
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "budget": 270000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "id": 447273,
+    "imdb_id": "tt6208148",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 108.4386,
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/osO7TGmlRMistSQ5JZusPhbKUHk.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-03-12",
+    "revenue": 205176583,
+    "runtime": 109,
+    "title": "Snow White",
+    "vote_average": 4.3,
+    "vote_count": 1060,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "1.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "1.6",
+    "imdbVotes": "352,821",
+    "imdbID": "tt6208148",
+    "Type": "movie",
+    "BoxOffice": "$86,656,856",
+    "Language": "English, German",
+    "Country": "United States",
+    "Awards": "2 nominations total"
+  },
+  {
+    "budget": 17000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 81836,
+    "imdb_id": "tt1859650",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 2.2973,
+    "production_companies": [
+      {
+        "id": 12966,
+        "logo_path": null,
+        "name": "Perdido Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 6246,
+        "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+        "name": "Medusa Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 1824,
+        "logo_path": null,
+        "name": "Gravier Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-04-20",
+    "revenue": 73258078,
+    "runtime": 111,
+    "title": "To Rome with Love",
+    "vote_average": 5.779,
+    "vote_count": 2021,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "47%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.3",
+    "imdbVotes": "91,670",
+    "imdbID": "tt1859650",
+    "Type": "movie",
+    "BoxOffice": "$16,685,867",
+    "Language": "English, Italian",
+    "Country": "United States, Italy, Spain",
+    "Awards": "2 wins & 5 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "id": 5759,
+    "imdb_id": "tt0923600",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.7032,
+    "production_companies": [
+      {
+        "id": 1974,
+        "logo_path": "/t8p2PpDBJo282a5TTr6Ln0wVkMZ.png",
+        "name": "Duplass Brothers Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2008-01-21",
+    "revenue": 140106,
+    "runtime": 84,
+    "title": "Baghead",
+    "vote_average": 5.8,
+    "vote_count": 117,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "62/100"
+      }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.0",
+    "imdbVotes": "5,698",
+    "imdbID": "tt0923600",
+    "Type": "movie",
+    "BoxOffice": "$140,106",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "id": 100529,
+    "imdb_id": "tt1710417",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.6894,
+    "production_companies": [
+      {
+        "id": 4205,
+        "logo_path": "/mYLsgmMHRBzpt8x15QwNr3Vyqn4.png",
+        "name": "Groundswell Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 43,
+        "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+        "name": "Fox Searchlight Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-04-24",
+    "revenue": 252603,
+    "runtime": 87,
+    "title": "Lola Versus",
+    "vote_average": 5.0,
+    "vote_count": 139,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "9,064",
+    "imdbID": "tt1710417",
+    "Type": "movie",
+    "BoxOffice": "$252,603",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "id": 1147572,
+    "imdb_id": "tt9077514",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.1095,
+    "production_companies": [
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79503,
+        "logo_path": null,
+        "name": "C.S. Lewis Company",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-11-26",
+    "revenue": 0,
+    "runtime": 0,
+    "title": "The Magicians Nephew",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt9077514",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States, Canada, Ireland, United Kingdom",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "id": 1147573,
+    "imdb_id": null,
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.4798,
+    "production_companies": [
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79503,
+        "logo_path": null,
+        "name": "C.S. Lewis Company",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "title": "Untitled Chronicles of Narnia Film #2",
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 291004,
+    "imdb_id": "tt1273194",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.3,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-04-16",
+    "revenue": 0,
+    "runtime": 94,
+    "title": "Art House",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "92",
+    "imdbID": "tt1273194",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "id": 659518,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.443,
+    "production_companies": [
+      {
+        "id": 32686,
+        "logo_path": "/6sDPxaKC0rGfxeWueXsYXu5YlDU.png",
+        "name": "The New York Times",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-11-25",
+    "revenue": 0,
+    "runtime": 5,
+    "title": "The Making of 'Making a Scene'",
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 27583,
+    "imdb_id": "tt1234654",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.3673,
+    "production_companies": [
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 20899,
+        "logo_path": null,
+        "name": "Twins Financing",
+        "origin_country": "US"
+      },
+      {
+        "id": 10146,
+        "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+        "name": "Focus Features",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-03-26",
+    "revenue": 6344112,
+    "runtime": 107,
+    "title": "Greenberg",
+    "vote_average": 5.862,
+    "vote_count": 581,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "76%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "Metascore": "76",
+    "imdbRating": "6.1",
+    "imdbVotes": "39,675",
+    "imdbID": "tt1234654",
+    "Type": "movie",
+    "BoxOffice": "$4,234,170",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 16 nominations"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "id": 283330,
+    "imdb_id": "tt3090634",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "popularity": 1.0381,
+    "production_companies": [
+      {
+        "id": 51696,
+        "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+        "name": "CG Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 240994,
+        "logo_path": null,
+        "name": "Yundal Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 240995,
+        "logo_path": null,
+        "name": "Blue Film Production",
+        "origin_country": "FR"
+      },
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2014-11-19",
+    "revenue": 65460,
+    "runtime": 131,
+    "title": "Eden",
+    "vote_average": 5.784,
+    "vote_count": 134,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "6.4",
+    "imdbVotes": "5,361",
+    "imdbID": "tt3090634",
+    "Type": "movie",
+    "BoxOffice": "$65,460",
+    "Language": "French, English",
+    "Country": "France",
+    "Awards": "4 nominations"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 396613,
+    "imdb_id": "tt1254966",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.2588,
+    "production_companies": [
+      {
+        "id": 76526,
+        "logo_path": null,
+        "name": "Modern Cinema Classics",
+        "origin_country": ""
+      },
+      {
+        "id": 76527,
+        "logo_path": null,
+        "name": "Rod Webber Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-05-28",
+    "revenue": 0,
+    "runtime": 75,
+    "title": "Northern Comfort",
+    "vote_average": 4.8,
+    "vote_count": 5,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "82",
+    "imdbID": "tt1254966",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 170438,
+    "imdb_id": "tt1363126",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "popularity": 0.3251,
+    "production_companies": [
+      {
+        "id": 104272,
+        "logo_path": null,
+        "name": "Cinemacapital",
+        "origin_country": ""
+      },
+      {
+        "id": 201,
+        "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+        "name": "ARTE",
+        "origin_country": "FR"
+      },
+      {
+        "id": 7006,
+        "logo_path": null,
+        "name": "Pierre Javaux Productions",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2009-09-19",
+    "revenue": 0,
+    "runtime": 81,
+    "title": "A NY Thing",
+    "vote_average": 2.7,
+    "vote_count": 3,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "177",
+    "imdbID": "tt1363126",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English, French",
+    "Country": "France",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "id": 254023,
+    "imdb_id": "tt1568343",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.7869,
+    "production_companies": [
+      {
+        "id": 42158,
+        "logo_path": null,
+        "name": "Hammerton Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 59593,
+        "logo_path": null,
+        "name": "AMBI Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 13270,
+        "logo_path": null,
+        "name": "Iervolino Entertainment",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2014-12-31",
+    "revenue": 0,
+    "runtime": 112,
+    "title": "The Humbling",
+    "vote_average": 5.1,
+    "vote_count": 148,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "5.6",
+    "imdbVotes": "7,321",
+    "imdbID": "tt1568343",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States, Italy",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 62770198,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "id": 399174,
+    "imdb_id": "tt5104604",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 5.8616,
+    "production_companies": [
+      {
+        "id": 264,
+        "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+        "name": "Studio Babelsberg",
+        "origin_country": "DE"
+      },
+      {
+        "id": 23449,
+        "logo_path": "/tPjESdmiEqfErAlDwFUoh0ldUQM.png",
+        "name": "American Empirical Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9350,
+        "logo_path": "/xz60JVoUHpOeg1cJbxzMJiwbuL7.png",
+        "name": "Indian Paintbrush",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-03-23",
+    "revenue": 64337744,
+    "runtime": 101,
+    "title": "Isle of Dogs",
+    "vote_average": 7.849,
+    "vote_count": 5048,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.8",
+    "imdbVotes": "199,660",
+    "imdbID": "tt5104604",
+    "Type": "movie",
+    "BoxOffice": "$32,015,231",
+    "Language": "English, Japanese",
+    "Country": "United Kingdom, Germany, Japan, United States",
+    "Awards": "Nominated for 2 Oscars. 34 wins & 95 nominations total"
+  },
+  {
+    "budget": 145000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "id": 346698,
+    "imdb_id": "tt1517268",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 27.2602,
+    "production_companies": [
+      {
+        "id": 82968,
+        "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+        "name": "LuckyChap Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 181486,
+        "logo_path": null,
+        "name": "NB/GG Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6220,
+        "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+        "name": "Mattel",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-07-19",
+    "revenue": 1445638421,
+    "runtime": 114,
+    "title": "Barbie",
+    "vote_average": 7.0,
+    "vote_count": 9962,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "6.8",
+    "imdbVotes": "596,493",
+    "imdbID": "tt1517268",
+    "Type": "movie",
+    "BoxOffice": "$636,238,421",
+    "Language": "English, Spanish",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 1 Oscar. 208 wins & 437 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 48204,
+    "imdb_id": "tt1186248",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.533,
+    "production_companies": [
+      {
+        "id": 1976,
+        "logo_path": "/vuNHAl3LpcNtjtRx8Ml4gpUMO2G.png",
+        "name": "filmscience",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2008-10-10",
+    "revenue": 0,
+    "runtime": 80,
+    "title": "Nights and Weekends",
+    "vote_average": 5.7,
+    "vote_count": 45,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "5.9",
+    "imdbVotes": "1,911",
+    "imdbID": "tt1186248",
+    "Type": "movie",
+    "BoxOffice": "$5,430",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 326094,
+    "imdb_id": "tt4144190",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.9658,
+    "production_companies": [
+      {
+        "id": 1422,
+        "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+        "name": "Killer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 13184,
+        "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+        "name": "Annapurna Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-06-24",
+    "revenue": 469311,
+    "runtime": 88,
+    "title": "Wiener-Dog",
+    "vote_average": 5.6,
+    "vote_count": 221,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "74%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "5.9",
+    "imdbVotes": "11,453",
+    "imdbID": "tt4144190",
+    "Type": "movie",
+    "BoxOffice": "$477,453",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 5 nominations total"
+  },
+  {
+    "budget": 7000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 342737,
+    "imdb_id": "tt4385888",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 12.0113,
+    "production_companies": [
+      {
+        "id": 13184,
+        "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+        "name": "Annapurna Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 41640,
+        "logo_path": "/e1naE79Djln19oDgMsP3uuvLbTq.png",
+        "name": "Archer Gray",
+        "origin_country": "US"
+      },
+      {
+        "id": 86356,
+        "logo_path": null,
+        "name": "Modern People",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-12-28",
+    "revenue": 5664764,
+    "runtime": 118,
+    "title": "20th Century Women",
+    "vote_average": 7.333,
+    "vote_count": 1164,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.3",
+    "imdbVotes": "51,081",
+    "imdbID": "tt4385888",
+    "Type": "movie",
+    "BoxOffice": "$5,664,764",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 15 wins & 82 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "id": 1069905,
+    "imdb_id": "tt30446847",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.7969,
+    "production_companies": [
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 181486,
+        "logo_path": null,
+        "name": "NB/GG Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-11-14",
+    "revenue": 0,
+    "runtime": 0,
+    "title": "Jay Kelly",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt30446847",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 81626,
+    "imdb_id": "tt1554414",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.369,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2011-03-12",
+    "revenue": 0,
+    "runtime": 90,
+    "title": "The Dish & the Spoon",
+    "vote_average": 5.565,
+    "vote_count": 31,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "5.8",
+    "imdbVotes": "1,352",
+    "imdbID": "tt1554414",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total"
+  },
+  {
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "id": 331482,
+    "imdb_id": "tt3281548",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 9.4047,
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/7cxRWzi4LsVm4Utfpr1hfARNurT.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-12-25",
+    "revenue": 216600000,
+    "runtime": 135,
+    "title": "Little Women",
+    "vote_average": 7.863,
+    "vote_count": 6458,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "91/100"
+      }
+    ],
+    "Metascore": "91",
+    "imdbRating": "7.8",
+    "imdbVotes": "267,594",
+    "imdbID": "tt3281548",
+    "Type": "movie",
+    "BoxOffice": "$108,101,214",
+    "Language": "English, French",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 78 wins & 239 nominations total"
+  },
+  {
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 312669,
+    "imdb_id": "tt3471098",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.6456,
+    "production_companies": [
+      {
+        "id": 41659,
+        "logo_path": null,
+        "name": "Round Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 41660,
+        "logo_path": null,
+        "name": "Rachael Horovitz Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33769,
+        "logo_path": null,
+        "name": "Freedom Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 6404,
+        "logo_path": null,
+        "name": "Locomotive",
+        "origin_country": "US"
+      },
+      {
+        "id": 67258,
+        "logo_path": null,
+        "name": "Hyperion Media Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 90445,
+        "logo_path": null,
+        "name": "Franklin Street",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-04-27",
+    "revenue": 3400000,
+    "runtime": 98,
+    "title": "Maggie's Plan",
+    "vote_average": 5.7,
+    "vote_count": 384,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "Metascore": "76",
+    "imdbRating": "6.2",
+    "imdbVotes": "18,659",
+    "imdbID": "tt3471098",
+    "Type": "movie",
+    "BoxOffice": "$3,351,735",
+    "Language": "English, Danish",
+    "Country": "United States",
+    "Awards": "1 win & 9 nominations"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "id": 333411,
+    "imdb_id": "tt3914298",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.4981,
+    "production_companies": [
+      {
+        "id": 32686,
+        "logo_path": "/6sDPxaKC0rGfxeWueXsYXu5YlDU.png",
+        "name": "The New York Times",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-11-25",
+    "revenue": 0,
+    "runtime": 10,
+    "title": "Making a Scene",
+    "vote_average": 5.4,
+    "vote_count": 17,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "288",
+    "imdbID": "tt3914298",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 1 nomination"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 82533,
+    "imdb_id": "tt1667307",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.9034,
+    "production_companies": [
+      {
+        "id": 37812,
+        "logo_path": null,
+        "name": "Westerly Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 214311,
+        "logo_path": null,
+        "name": "Steeplechase-Analytic Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-04-06",
+    "revenue": 1314358,
+    "runtime": 99,
+    "title": "Damsels in Distress",
+    "vote_average": 5.5,
+    "vote_count": 192,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "75%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "5.8",
+    "imdbVotes": "10,082",
+    "imdbID": "tt1667307",
+    "Type": "movie",
+    "BoxOffice": "$1,008,455",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 2 nominations"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 396398,
+    "imdb_id": "tt5536736",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.961,
+    "production_companies": [
+      {
+        "id": 93105,
+        "logo_path": "/ryjDQ04FlVYVW30Eok3t5V5Gx8T.png",
+        "name": "IAC Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-10-13",
+    "revenue": 0,
+    "runtime": 112,
+    "title": "The Meyerowitz Stories (New and Selected)",
+    "vote_average": 6.466,
+    "vote_count": 1211,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "6.9",
+    "imdbVotes": "55,274",
+    "imdbID": "tt5536736",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 8 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 709105,
+    "imdb_id": "tt3810004",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.1884,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2006-05-01",
+    "revenue": 0,
+    "runtime": 5,
+    "title": "Thanks for the Add!",
+    "vote_average": 3.0,
+    "vote_count": 1,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "12",
+    "imdbID": "tt3810004",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "id": 49012,
+    "imdb_id": "tt1334512",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 2.3757,
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 59952,
+        "logo_path": null,
+        "name": "MBST",
+        "origin_country": "US"
+      },
+      {
+        "id": 6363,
+        "logo_path": null,
+        "name": "BenderSpink",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2011-04-08",
+    "revenue": 48147945,
+    "runtime": 110,
+    "title": "Arthur",
+    "vote_average": 5.5,
+    "vote_count": 750,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "27%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "36/100"
+      }
+    ],
+    "Metascore": "36",
+    "imdbRating": "5.7",
+    "imdbVotes": "53,351",
+    "imdbID": "tt1334512",
+    "Type": "movie",
+    "BoxOffice": "$33,035,397",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 6 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 185716,
+    "imdb_id": "tt1535521",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.3119,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-10-13",
+    "revenue": 0,
+    "runtime": 10,
+    "title": "Family Tree",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.0",
+    "imdbVotes": "58",
+    "imdbID": "tt1535521",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "id": 509431,
+    "imdb_id": "tt2442956",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 0.2314,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-01-16",
+    "revenue": 0,
+    "runtime": 17,
+    "title": "Jagoo",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "7",
+    "imdbID": "tt2442956",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "id": 309245,
+    "imdb_id": "tt2872462",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.4056,
+    "production_companies": [
+      {
+        "id": 30666,
+        "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+        "name": "RT Features",
+        "origin_country": "BR"
+      },
+      {
+        "id": 262530,
+        "logo_path": null,
+        "name": "Mobius Literary",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2015-08-14",
+    "revenue": 2500431,
+    "runtime": 84,
+    "title": "Mistress America",
+    "vote_average": 6.527,
+    "vote_count": 549,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "6.7",
+    "imdbVotes": "29,263",
+    "imdbID": "tt2872462",
+    "Type": "movie",
+    "BoxOffice": "$2,500,431",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 14 nominations total"
+  },
+  {
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "id": 25983,
+    "imdb_id": "tt1172994",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "popularity": 1.7618,
+    "production_companies": [
+      {
+        "id": 1360,
+        "logo_path": "/lqVvISZwlXQpEl27erWszcPdPsR.png",
+        "name": "Glass Eye Pix",
+        "origin_country": "US"
+      },
+      {
+        "id": 23457,
+        "logo_path": null,
+        "name": "MPI Media Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 213785,
+        "logo_path": null,
+        "name": "Constructovision",
+        "origin_country": ""
+      },
+      {
+        "id": 213786,
+        "logo_path": null,
+        "name": "RingTheJing Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-10-30",
+    "revenue": 0,
+    "runtime": 95,
+    "title": "The House of the Devil",
+    "vote_average": 6.3,
+    "vote_count": 777,
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "6.3",
+    "imdbVotes": "53,059",
+    "imdbID": "tt1172994",
+    "Type": "movie",
+    "BoxOffice": "$101,215",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 6 nominations"
+  }
+]

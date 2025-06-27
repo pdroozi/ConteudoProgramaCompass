@@ -1,3 +1,5 @@
 Sprint4/Desafio/data/ProUniTrienio.csv filter=lfs diff=lfs merge=lfs -text
 
 Sprint6/Exercicios/Exercicio1/Etapa3/nomes_aleatorios.txt filter=lfs diff=lfs merge=lfs -text
+
+Sprint6/Desafio/input_data/csv/movies.csv filter=lfs diff=lfs merge=lfs -text
