@@ -15,10 +15,6 @@
 
 - Durante sua carreira no gênero, tem mais presença como atriz? Diretora? Roteirista? Escritora?
 
-- Nota média dos filmes ao longo dos anos dividio por carreira (evolução profissional?)
-
-- Filmes mais premiados da carreira
-
 ## Etapa1
 
 - Acesse por aqui, os arquivos Python e Dockerfile entregáveis da Etapa1

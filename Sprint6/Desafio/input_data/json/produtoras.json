@@ -1,0 +1,702 @@
+[
+  {
+    "id_filme": 5761,
+    "id_produtora": 1976,
+    "name": "filmscience",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 121986,
+    "id_produtora": 258,
+    "name": "Scott Rudin Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 121986,
+    "id_produtora": 30666,
+    "name": "RT Features",
+    "origin_country": "BR",
+    "headquarters": "São Paulo"
+  },
+  {
+    "id_filme": 121986,
+    "id_produtora": 88533,
+    "name": "Pine District Pictures",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 89229,
+    "name": "Alldayeveryday",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 149332,
+    "name": "Vice Studios",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 136576,
+    "name": "Matador Records",
+    "origin_country": "US",
+    "headquarters": "134 Grand St.  New York, NY 10013"
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 21229,
+    "name": "Field Recordings Filmproduktion",
+    "origin_country": "DE",
+    "headquarters": "Cologne"
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 154645,
+    "name": "LBI Entertainment",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 245827,
+    "name": "Monotone",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 37814,
+    "name": "Hipgnosis",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1063307,
+    "id_produtora": 237792,
+    "name": "WW7 Entertainment",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 87952,
+    "id_produtora": 125643,
+    "name": "Frownland",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 110354,
+    "id_produtora": 7193,
+    "name": "Company Films",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 744594,
+    "id_produtora": 437,
+    "name": "Heyday Films",
+    "origin_country": "GB",
+    "headquarters": "Borehamwood, Hertfordshire, England"
+  },
+  {
+    "id_filme": 744594,
+    "id_produtora": 181486,
+    "name": "NB/GG Pictures",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 744594,
+    "id_produtora": 41077,
+    "name": "A24",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 41630,
+    "id_produtora": 817,
+    "name": "Katalyst Films",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 41630,
+    "id_produtora": 2364,
+    "name": "The Montecito Picture Company",
+    "origin_country": "US",
+    "headquarters": "Beverly Hills, California United States"
+  },
+  {
+    "id_filme": 41630,
+    "id_produtora": 8873,
+    "name": "Handsomecharlie Films",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 391713,
+    "id_produtora": 93105,
+    "name": "IAC Films",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 391713,
+    "id_produtora": 258,
+    "name": "Scott Rudin Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 391713,
+    "id_produtora": 78984,
+    "name": "Entertainment 360",
+    "origin_country": "US",
+    "headquarters": "Beverly Hills, California"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 8533,
+    "name": "LD Entertainment",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California, USA"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 7503,
+    "name": "Protozoa Pictures",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 21546,
+    "name": "Fabula",
+    "origin_country": "CL",
+    "headquarters": "Santiago"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 8186,
+    "name": "Bliss Media",
+    "origin_country": "CN",
+    "headquarters": "Shanghai, China"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 856,
+    "name": "Wild Bunch",
+    "origin_country": "FR",
+    "headquarters": "Paris"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 729,
+    "name": "Why Not Productions",
+    "origin_country": "FR",
+    "headquarters": "Paris"
+  },
+  {
+    "id_filme": 376866,
+    "id_produtora": 261361,
+    "name": "Endemol Shine Studios",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 49446,
+    "id_produtora": 136151,
+    "name": "Helavanna Productions",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 49446,
+    "id_produtora": 136152,
+    "name": "Mesee Productions",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 447273,
+    "id_produtora": 2,
+    "name": "Walt Disney Pictures",
+    "origin_country": "US",
+    "headquarters": "Burbank, California"
+  },
+  {
+    "id_filme": 447273,
+    "id_produtora": 2527,
+    "name": "Marc Platt Productions",
+    "origin_country": "US",
+    "headquarters": "Universal City, California"
+  },
+  {
+    "id_filme": 81836,
+    "id_produtora": 12966,
+    "name": "Perdido Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 81836,
+    "id_produtora": 6246,
+    "name": "Medusa Film",
+    "origin_country": "IT",
+    "headquarters": "Rome"
+  },
+  {
+    "id_filme": 81836,
+    "id_produtora": 1824,
+    "name": "Gravier Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 5759,
+    "id_produtora": 1974,
+    "name": "Duplass Brothers Productions",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 100529,
+    "id_produtora": 4205,
+    "name": "Groundswell Productions",
+    "origin_country": "US",
+    "headquarters": "Beverly Hills, California"
+  },
+  {
+    "id_filme": 100529,
+    "id_produtora": 43,
+    "name": "Fox Searchlight Pictures",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 1147572,
+    "id_produtora": 84041,
+    "name": "Pascal Pictures",
+    "origin_country": "US",
+    "headquarters": "Culver City, California"
+  },
+  {
+    "id_filme": 1147572,
+    "id_produtora": 79503,
+    "name": "C.S. Lewis Company",
+    "origin_country": "GB",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1147573,
+    "id_produtora": 84041,
+    "name": "Pascal Pictures",
+    "origin_country": "US",
+    "headquarters": "Culver City, California"
+  },
+  {
+    "id_filme": 1147573,
+    "id_produtora": 79503,
+    "name": "C.S. Lewis Company",
+    "origin_country": "GB",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 659518,
+    "id_produtora": 32686,
+    "name": "The New York Times",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 27583,
+    "id_produtora": 258,
+    "name": "Scott Rudin Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 27583,
+    "id_produtora": 20899,
+    "name": "Twins Financing",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 27583,
+    "id_produtora": 10146,
+    "name": "Focus Features",
+    "origin_country": "US",
+    "headquarters": "Universal City, California"
+  },
+  {
+    "id_filme": 283330,
+    "id_produtora": 51696,
+    "name": "CG Cinéma",
+    "origin_country": "FR",
+    "headquarters": "Paris"
+  },
+  {
+    "id_filme": 283330,
+    "id_produtora": 240994,
+    "name": "Yundal Films",
+    "origin_country": "FR",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 283330,
+    "id_produtora": 240995,
+    "name": "Blue Film Production",
+    "origin_country": "FR",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 283330,
+    "id_produtora": 83,
+    "name": "France 2 Cinéma",
+    "origin_country": "FR",
+    "headquarters": "Paris"
+  },
+  {
+    "id_filme": 396613,
+    "id_produtora": 76526,
+    "name": "Modern Cinema Classics",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 396613,
+    "id_produtora": 76527,
+    "name": "Rod Webber Productions",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 170438,
+    "id_produtora": 104272,
+    "name": "Cinemacapital",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 170438,
+    "id_produtora": 201,
+    "name": "ARTE",
+    "origin_country": "FR",
+    "headquarters": "Paris "
+  },
+  {
+    "id_filme": 170438,
+    "id_produtora": 7006,
+    "name": "Pierre Javaux Productions",
+    "origin_country": "FR",
+    "headquarters": "Paris, France"
+  },
+  {
+    "id_filme": 254023,
+    "id_produtora": 42158,
+    "name": "Hammerton Productions",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 254023,
+    "id_produtora": 59593,
+    "name": "AMBI Group",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 254023,
+    "id_produtora": 13270,
+    "name": "Iervolino Entertainment",
+    "origin_country": "IT",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 399174,
+    "id_produtora": 264,
+    "name": "Studio Babelsberg",
+    "origin_country": "DE",
+    "headquarters": "Potsdam"
+  },
+  {
+    "id_filme": 399174,
+    "id_produtora": 23449,
+    "name": "American Empirical Pictures",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 399174,
+    "id_produtora": 9350,
+    "name": "Indian Paintbrush",
+    "origin_country": "US",
+    "headquarters": "Santa Monica, California"
+  },
+  {
+    "id_filme": 399174,
+    "id_produtora": 258,
+    "name": "Scott Rudin Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 346698,
+    "id_produtora": 82968,
+    "name": "LuckyChap Entertainment",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 346698,
+    "id_produtora": 437,
+    "name": "Heyday Films",
+    "origin_country": "GB",
+    "headquarters": "Borehamwood, Hertfordshire, England"
+  },
+  {
+    "id_filme": 346698,
+    "id_produtora": 181486,
+    "name": "NB/GG Pictures",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 346698,
+    "id_produtora": 6220,
+    "name": "Mattel",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 346698,
+    "id_produtora": 174,
+    "name": "Warner Bros. Pictures",
+    "origin_country": "US",
+    "headquarters": "Burbank, California"
+  },
+  {
+    "id_filme": 48204,
+    "id_produtora": 1976,
+    "name": "filmscience",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 326094,
+    "id_produtora": 1422,
+    "name": "Killer Films",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 326094,
+    "id_produtora": 13184,
+    "name": "Annapurna Pictures",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 342737,
+    "id_produtora": 13184,
+    "name": "Annapurna Pictures",
+    "origin_country": "US",
+    "headquarters": "Los Angeles, California"
+  },
+  {
+    "id_filme": 342737,
+    "id_produtora": 41640,
+    "name": "Archer Gray",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 342737,
+    "id_produtora": 86356,
+    "name": "Modern People",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 1069905,
+    "id_produtora": 84041,
+    "name": "Pascal Pictures",
+    "origin_country": "US",
+    "headquarters": "Culver City, California"
+  },
+  {
+    "id_filme": 1069905,
+    "id_produtora": 437,
+    "name": "Heyday Films",
+    "origin_country": "GB",
+    "headquarters": "Borehamwood, Hertfordshire, England"
+  },
+  {
+    "id_filme": 1069905,
+    "id_produtora": 181486,
+    "name": "NB/GG Pictures",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 331482,
+    "id_produtora": 5,
+    "name": "Columbia Pictures",
+    "origin_country": "US",
+    "headquarters": "Culver City, California"
+  },
+  {
+    "id_filme": 331482,
+    "id_produtora": 508,
+    "name": "Regency Enterprises",
+    "origin_country": "US",
+    "headquarters": "West Hollywood, California, USA"
+  },
+  {
+    "id_filme": 331482,
+    "id_produtora": 84041,
+    "name": "Pascal Pictures",
+    "origin_country": "US",
+    "headquarters": "Culver City, California"
+  },
+  {
+    "id_filme": 312669,
+    "id_produtora": 41659,
+    "name": "Round Films",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 312669,
+    "id_produtora": 41660,
+    "name": "Rachael Horovitz Productions",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 312669,
+    "id_produtora": 33769,
+    "name": "Freedom Media",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 312669,
+    "id_produtora": 6404,
+    "name": "Locomotive",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 312669,
+    "id_produtora": 67258,
+    "name": "Hyperion Media Group",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 312669,
+    "id_produtora": 90445,
+    "name": "Franklin Street",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 333411,
+    "id_produtora": 32686,
+    "name": "The New York Times",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 82533,
+    "id_produtora": 37812,
+    "name": "Westerly Films",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 82533,
+    "id_produtora": 214311,
+    "name": "Steeplechase-Analytic Productions",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 396398,
+    "id_produtora": 93105,
+    "name": "IAC Films",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 49012,
+    "id_produtora": 174,
+    "name": "Warner Bros. Pictures",
+    "origin_country": "US",
+    "headquarters": "Burbank, California"
+  },
+  {
+    "id_filme": 49012,
+    "id_produtora": 59952,
+    "name": "MBST",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 49012,
+    "id_produtora": 6363,
+    "name": "BenderSpink",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 309245,
+    "id_produtora": 30666,
+    "name": "RT Features",
+    "origin_country": "BR",
+    "headquarters": "São Paulo"
+  },
+  {
+    "id_filme": 309245,
+    "id_produtora": 262530,
+    "name": "Mobius Literary",
+    "origin_country": "US",
+    "headquarters": ""
+  },
+  {
+    "id_filme": 25983,
+    "id_produtora": 1360,
+    "name": "Glass Eye Pix",
+    "origin_country": "US",
+    "headquarters": "New York City, New York"
+  },
+  {
+    "id_filme": 25983,
+    "id_produtora": 23457,
+    "name": "MPI Media Group",
+    "origin_country": "US",
+    "headquarters": "Orland Park, Illinois"
+  },
+  {
+    "id_filme": 25983,
+    "id_produtora": 213785,
+    "name": "Constructovision",
+    "origin_country": null,
+    "headquarters": ""
+  },
+  {
+    "id_filme": 25983,
+    "id_produtora": 213786,
+    "name": "RingTheJing Entertainment",
+    "origin_country": null,
+    "headquarters": ""
+  }
+]
