@@ -7,9 +7,9 @@ Entusiasta dedicado e apaixonado por tecnologia e redes de computadores, buscand
 
 Reconhecido pela liderança, dedicação, comunicação eficaz, e resolução de problemas, sou certificado pelo Exército Brasileiro com Diplomas de Destaque e de Honra ao Mérito.
 
-Busco na Compass oportunidades que me permitam aplicar e desenvolver meu conhecimento, demonstrar minhas qualidades para impulsionar meu crescimento profissional, e inovar em um ambiente dinâmico e desafiador. Sempre aberto a possibilidades de colaborar!
+Busco aqui na Compass oportunidades que me permitam aplicar e desenvolver meu conhecimento, demonstrar minhas qualidades para impulsionar meu crescimento profissional, e inovar em um ambiente dinâmico e desafiador. Sempre aberto a possibilidades de colaborar!
 
-<img src="img_foto_pessoal_readme/foto-pessoal_colorida.png" alt="Foto Pessoal" width=200px />
+<img src="img_foto_pessoal_readme/foto-pessoal_colorida.jpg" alt="Foto Pessoal" width=200px />
 
 ## Contact
 
